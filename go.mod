@@ -1,4 +1,4 @@
-module github.com/nqd/flat
+module github.com/sh-agilebot/flat
 
 go 1.16
 
